@@ -11,8 +11,8 @@ const newspapers = [
         address: "https://www.theguardian.com/"
     }, 
     {
-        name: "cnn",
-        address: "https://www.cnn.com/"
+        name: "nyt",
+        address: "https://www.nytimes.com/"
     }
 ];
 
